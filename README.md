@@ -5,6 +5,15 @@ Sandbox for ideas for the Vermilion programming language
 
 ```
 class struct union 
+if then else
+for
+while
+try catch throw
+
+void null
+int8 int16 int32 int64 int128
+uint8 uint16 uint32 uint64 uint128
+bool string
 ```
 
 ##### Primitive data types
@@ -23,3 +32,6 @@ class struct union
 	
 	
 -	Pointer types, declared with the ``*`` symbol. Mandatory glued to the end of the type name - ``any*``
+
+##### Sandbox of ideas
+-	Built in dispatch table structure?
