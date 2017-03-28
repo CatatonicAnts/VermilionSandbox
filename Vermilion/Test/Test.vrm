@@ -1,0 +1,6 @@
+﻿module TestThingie;
+
+int32 main(string[] args) {
+
+	return 0;
+}
