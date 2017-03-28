@@ -4,7 +4,8 @@ Sandbox for ideas for the Vermilion programming language
 ##### Keywords
 
 ```
-class struct union 
+module import
+class struct union delegate
 if then else
 for
 while
